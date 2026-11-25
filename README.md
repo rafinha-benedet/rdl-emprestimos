@@ -2,6 +2,7 @@
 
 Microsserviço de **Empréstimos** do sistema [Repositório das Letras](https://github.com/kauanysartor/Repositorio-das-Letras). O documento de requisitos e o descritivo técnico completo estão no repositório principal.
 
+
 Registra empréstimos e devoluções. Valida o leitor e o livro antes de emprestar.
 
 ## Endpoints
